@@ -38,3 +38,4 @@ QTools/x64/*
 *.vcxproj.user
 QTools.sln
 Vesta/x64/*
+Testprj*
