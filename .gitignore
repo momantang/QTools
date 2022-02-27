@@ -33,7 +33,8 @@
 .vs/*
 x64/*
 QTools/x64/*
-QTools/QTools.vcxproj.filters
-QTools/QTools.vcxproj
-QTools/QTools.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.vcxproj.user
 QTools.sln
+Vesta/x64/*
